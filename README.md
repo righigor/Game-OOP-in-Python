@@ -20,14 +20,14 @@
    - Clone this repository to your local machine:
 
      ```bash
-     git clone https://github.com/your-username/the-passos-castle.git
+     git clone https://github.com/righigor/Game-OOP-in-Python.git
      ```
 
 2. **Execution:**
    - Navigate to the game directory:
 
      ```bash
-     cd the-passos-castle
+     cd Game-OOP-in-Python
      ```
 
    - Run the game with Python:
