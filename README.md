@@ -7,6 +7,7 @@
 - [Features](#features)
 - [Contribution](#contribution)
 - [Skills](#skills)
+- [Contact](#contatc)
 
 ### Description
 
@@ -49,7 +50,7 @@
 
 - If you wish to contribute improvements or new features to the game, feel free to submit a pull request to this repository.
 
-## Skills
+### Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Object Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-333333?style=for-the-badge)
